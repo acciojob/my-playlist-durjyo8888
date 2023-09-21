@@ -18,19 +18,24 @@ ul{
     border-radius: 10px;
 	
 }
-/* .player_one, */
+.player_one,
 .player_two {
     background-color: rgb(255, 255, 255);
     padding: 20px;
     border-radius: 10px;
 /* 	width:50% */
-	border-style:solid;
+	
 }
 #video{
 	text-align:center;
-	width:100%
+	width:100%;
+/* 	border-style:solid; */
 }
 #audio{
 	text-align:center;
 	width:100%;
+}
+#line{
+	border-style:solid;
+	  border-radius: 10px;
 }
